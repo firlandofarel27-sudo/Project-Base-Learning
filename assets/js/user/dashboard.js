@@ -7,6 +7,7 @@ function homeUser() {
       'Halo, Nadia! Senang melihat Anda kembali.',
       '<button class="btn primary" data-page="report">＋ Buat Laporan</button>'
     )}
+    <div id="app"></div>
 
     <div class="stats">
       ${stat('▤', 'Laporan Saya', '4', '2 masih diproses')}
